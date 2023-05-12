@@ -1,4 +1,20 @@
-
+header {
+	background-image: url("../img/desktop-1600x900.jpg");
+	height: 100vh;
+	min-height: 400px;
+	background-size: cover;
+  }
+  .navbar-light .navbar-nav .nav-link{
+	color: black;
+	font-size: 18px;
+  }
+  .navbar-light .navbar-brand{
+	color: black;
+	font-size: 30px;
+  }
+  .bg-dark{
+	background-color: white !important;
+  }
 nav { 	background: #101010;
 }
 footer {
